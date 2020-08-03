@@ -1,0 +1,1 @@
+python flipCli/flipVideo.py -i flipCli/test/buffercapture.mp4 -c -h

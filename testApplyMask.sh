@@ -1,0 +1,1 @@
+python applyMask/applyMask.py applyMask/mask.png applyMask/barry.jpg
